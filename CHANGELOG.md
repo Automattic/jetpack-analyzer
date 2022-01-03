@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - Slurper Script now uses a shebang to preset a 2 GB memory limit
 
 ### Changed
+- Updated package dependencies
 - Updated to Slurper example script to use new Docker location and not exclude vendor dir.
 
 ## [1.6.2] - 2021-12-07
