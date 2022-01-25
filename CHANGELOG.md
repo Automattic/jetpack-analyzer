@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 This is an alpha version! The changes listed here are not final.
 
 ### Added
+- API for anayzer service
 - Slurper Script now uses a shebang to preset a 2 GB memory limit
 
 ### Changed
