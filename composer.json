@@ -27,7 +27,6 @@
 			"Automattic\\Jetpack\\Analyzer\\CoreDefinitions::callback"
 		]
 	},
-	"repositories": [],
 	"minimum-stability": "dev",
 	"prefer-stable": true,
 	"extra": {
