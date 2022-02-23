@@ -17,6 +17,9 @@ This is an alpha version! The changes listed here are not final.
 - Updated package dependencies
 - Updated to Slurper example script to use new Docker location and not exclude vendor dir.
 
+### Fixed
+- Fix jetpack-svn.php script getting latest stable Jetpack version by default
+
 ## [1.6.2] - 2021-12-07
 ### Added
 - Handle more code tokens
