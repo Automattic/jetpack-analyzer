@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Renaming master references to trunk, to work with the GitHub default branch name changing to trunk.
+- Renaming `master` references to `trunk`
 - Updated package dependencies.
 
 ## [1.7.0] - 2022-02-23
