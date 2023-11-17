@@ -12,7 +12,7 @@
 	},
 	"require-dev": {
 		"php": "^7.4 || ^8.0",
-		"automattic/jetpack-changelogger": "^3.3.11"
+		"automattic/jetpack-changelogger": "^4.0.0-alpha"
 	},
 	"autoload": {
 		"classmap": [
