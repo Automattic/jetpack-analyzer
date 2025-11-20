@@ -9,6 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 This is an alpha version! The changes listed here are not final.
 
+### Fixed
+- Phan: Address PhanPossiblyUndeclaredVariable violations.
+
 ## [3.0.1] - 2025-04-02
 ### Changed
 - Code: Use function-style exit() and die() with a default status code of 0. [#41167]
